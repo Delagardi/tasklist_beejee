@@ -1,0 +1,18 @@
+.actions .btn {
+  width: 100%;
+}
+
+.actions .edit {
+  color: #FFAD21;
+  border-color: #FFAD21;
+}
+.actions .edit:focus,
+.actions .edit:hover {
+  color: #fff;
+  border-color: #FFAD21;
+  background-color: #FFAD21;
+}
+
+.actions .edit:focus {
+  box-shadow: 0 0 0 0.2rem rgba(255,173,33,0.5);
+}

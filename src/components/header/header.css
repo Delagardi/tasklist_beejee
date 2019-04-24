@@ -1,0 +1,18 @@
+.app-header .main-header {
+  text-align: center;
+  font-size: 3rem;
+  display: block;
+  text-decoration: none;
+}
+
+.login-block {
+  height: 3rem;
+}
+
+.login-btn {
+  float: right;
+}
+
+.logout {
+  display: inline;
+}

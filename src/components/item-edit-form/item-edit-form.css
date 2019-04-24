@@ -1,0 +1,32 @@
+.item-add-form {
+  margin-top: 1rem;
+}
+
+.item-add-form-inputs {
+  width: 90%;
+}
+
+.item-add-form .btn-add {
+  width: 10%;
+  margin: 0;
+}
+
+.form-control {
+  flex-grow: 1;
+  margin-right: 0.5rem;
+}
+
+
+.item-add-form .text-edit {
+  width: 40%;
+  margin-right: 0;
+  border-color: #FFAD21;
+}
+
+.item-add-form .text-edit:focus {
+  box-shadow: 0 0 0 0.2rem rgba(255,173,33,0.5);
+}
+
+button.status-edit {
+  margin: 0 0.5rem;
+}

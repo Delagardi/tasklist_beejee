@@ -1,0 +1,19 @@
+.filter {
+  width: 100%;
+}
+
+.filter .text {
+  width: 40%;
+}
+
+.filter .email {
+  width: 25%;
+} 
+
+.filter .name {
+  width: 25%;
+}
+
+.filter .status {
+  width: 10%;
+}

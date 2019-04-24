@@ -1,0 +1,33 @@
+.list-group {
+  min-height: 145px;
+}
+
+.list-group-item {
+  padding: 0;
+}
+
+.todo-list-item-wrapper {
+  display: flex;
+}
+
+.todo-list-item-label {
+  border-right: 1px solid rgba(0,0,0,0.125);
+  padding: 0.75rem 0.75rem;
+  word-wrap: break-word;
+}
+
+.todo-list-item-wrapper .text {
+  width: 40%;
+}
+
+.todo-list-item-wrapper .email {
+  width: 25%;
+} 
+
+.todo-list-item-wrapper .username {
+  width: 25%;
+}
+
+.todo-list-item-wrapper .actions {
+  width: 10%;
+}

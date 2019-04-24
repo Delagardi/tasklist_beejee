@@ -1,0 +1,16 @@
+.login-window {
+  height: 100vh;
+}
+
+.login-window h3 {
+  text-align: center;
+}
+
+.login-window .bottom-link {
+  text-align: center;
+  display: block;
+}
+
+.hidden {
+  visibility: hidden;
+}

@@ -1,0 +1,38 @@
+.item-add-form {
+  margin-top: 1rem;
+}
+
+.item-add-form-inputs {
+  width: 90%;
+}
+
+.item-add-form .inputsWrapper .btn-add {
+  width: 10%;
+  margin: 0;
+}
+
+.form-control {
+  flex-grow: 1;
+  margin-right: 0.5rem;
+}
+
+
+.item-add-form .inputsWrapper .text {
+ width: 40%;
+}
+
+.item-add-form .inputsWrapper .email {
+  width: 25%;
+}
+
+.item-add-form .inputsWrapper .name {
+  width: 25%;
+}
+
+.item-add-form small {
+  height: .5rem;
+}
+
+.hidden {
+  visibility: hidden;
+}
