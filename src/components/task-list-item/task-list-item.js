@@ -1,6 +1,6 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import { isEditingAction } from '../actions';
+import { isEditingAction } from '../../actions';
 
 import './task-list-item.css';
 

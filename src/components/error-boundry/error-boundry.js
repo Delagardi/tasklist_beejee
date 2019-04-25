@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import ErrorIndicator from '../error-indicator';
 import { connect } from 'react-redux';
-import { tasksLoadErrorAction } from '../actions';
+import { tasksLoadErrorAction } from '../../actions';
 
 class ErrorBoundry extends Component {
   componentDidCatch(error) {

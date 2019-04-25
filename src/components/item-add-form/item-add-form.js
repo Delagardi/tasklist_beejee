@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import withBeeJeeService from '../hoc';
-import { taskCreateRequestedAction, taskCreateSuccessAction, taskCreateErrorAction } from '../actions';
+import { taskCreateRequestedAction, taskCreateSuccessAction, taskCreateErrorAction } from '../../actions';
 
 import './item-add-form.css';
 

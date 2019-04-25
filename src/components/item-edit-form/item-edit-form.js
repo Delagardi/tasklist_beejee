@@ -5,7 +5,7 @@ import {
   isEditingAction,
   setEditableTaskAction,
   tasksLoadErrorAction
- } from '../actions';
+ } from '../../actions';
 
 import './item-edit-form.css';
 

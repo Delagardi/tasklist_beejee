@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
-import { changeCurrentPageAction } from '../actions';
+import { changeCurrentPageAction } from '../../actions';
 import { Link } from 'react-router-dom';
 
 import './pagination.css';

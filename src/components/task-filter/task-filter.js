@@ -1,7 +1,7 @@
 import React from 'react';
 import { connect } from 'react-redux';
 import withBeeJeeService from '../hoc';
-import { tasksLoadedAction, tasksLoadErrorAction, changeSortDirectionAction } from '../actions';
+import { tasksLoadedAction, tasksLoadErrorAction, changeSortDirectionAction } from '../../actions';
 
 import './task-filter.css';
 

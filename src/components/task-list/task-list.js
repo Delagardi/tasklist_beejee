@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import withBeeJeeService from '../hoc';
-import { tasksRequestedAction, tasksLoadedAction, tasksLoadErrorAction, setEditableTaskAction } from '../actions';
+import { tasksRequestedAction, tasksLoadedAction, tasksLoadErrorAction, setEditableTaskAction } from '../../actions';
 import Spinner from '../spinner';
 import ErrorIndicator from '../error-indicator/';
 import TaskListItem from '../task-list-item';
